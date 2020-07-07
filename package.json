@@ -1,0 +1,28 @@
+{
+  "name": "dangerfield",
+  "version": "1.0.0",
+  "description": "setup bot",
+  "main": "index.js",
+  "type": "module" ,
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x86ed/dangerfield.git"
+  },
+  "keywords": [
+    "setup",
+    "builder"
+  ],
+  "author": "Adam Siegel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/x86ed/dangerfield/issues"
+  },
+  "homepage": "https://github.com/x86ed/dangerfield#readme"
+}
